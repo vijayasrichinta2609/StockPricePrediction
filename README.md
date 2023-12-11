@@ -1,6 +1,5 @@
 # Stock Price Prediction
 
-# Abstract:
 This project focuses on the application of logistic regression for predicting stock price movements and visualizing the results. The primary objective is to demonstrate how historical stock price data, along with relevant indicators, can be used to build a logistic regression model to classify whether a stock's price will increase or decrease. The project emphasizes the significance of accurate stock price predictions for investors and traders, underlining the potential benefits of informed decision-making. Through the utilization of Python libraries like pandas for data pre-processing, scikit-learn for model construction, and matplotlib/seaborn for visualization, this project offers a comprehensive guide to predicting and visualizing stock price movements using logistic regression. The final section discusses future avenues, such as advanced machine learning techniques and real-time prediction, to further enhance the predictive capabilities.
 Importance of Accurate Stock Price Predictions:
 Accurate stock price predictions hold immense significance in the world of finance. Investors and traders use these predictions to:
