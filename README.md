@@ -1,4 +1,4 @@
-# Comprehensive Data Science Lifecycle: Stock Price Prediction
+# Stock Price Prediction Comprehensive Data Science Lifecycle
 
 ## 1. Business Understanding:
 
