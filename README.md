@@ -1,6 +1,6 @@
 # Stock Price Prediction Comprehensive Data Science Lifecycle
 
-## 1. Business Understanding:
+## 1. Problem Identification:
 
 Embarking on predicting stock price movements through logistic regression, this project underscores the pivotal role of accurate predictions for investors and traders, aiming to maximize profits and optimize portfolio allocations. In understanding the business context, the objective is clear: develop a model that aids in timely decision-making and strategic investment.
 
